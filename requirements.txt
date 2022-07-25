@@ -1,0 +1,7 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+opencc==1.1.1
+opencc_python_reimplemented==0.1.6
+python_telegram_bot==13.11
+telegram==0.0.1
+torch==1.11.0+cpu
+transformers==4.17.0
